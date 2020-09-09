@@ -1,15 +1,13 @@
 """dosing.py
-    Example program of calculating first-day dose of Zithromax for pediatric
+    Example program of calculating first-day dose of medicine for pediatric
         patients.
     NOTE:  This is a programming example, and should not be used for any
              type of medical treatment or diagnostics.
-    SOURCE:
-      https://www.pfizermedicalinformation.com/en-us/zithromax/dosage-admin
 """
 
 
 def dose_amount():
-    print("Zithromax Day One Dosing Guidelines")
+    print("Day One Dosing Guidelines")
     print("")
     print("Choose diagnosis:")
     print("1 - Acute otitis media")
